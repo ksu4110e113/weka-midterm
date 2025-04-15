@@ -8,7 +8,7 @@
 ## 🔧 一、Weka 安裝與設定
 
 ### 1. Weka 安裝
-- 前往下載頁：[https://www.cs.waikato.ac.nz/ml/weka/downloading.html](https://www.cs.waikato.ac.nz/ml/weka/downloading.html)
+- 前往下載頁：[https://waikato.github.io/weka-wiki/downloading_weka/](https://waikato.github.io/weka-wiki/downloading_weka/)
 - 選擇含 Java VM 版本（64-bit 建議）
 - 安裝方式：選擇 **Full** 安裝
 
